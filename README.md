@@ -7,5 +7,4 @@ This repository will demonstrate you how you can contrbute to open source projec
 We will learn about:
 - Commits
 - Issues 
-- Pull Requests 
-- and many more operations available in git and github.
+- Pull Requests
