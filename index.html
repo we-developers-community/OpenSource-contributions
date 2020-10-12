@@ -5,25 +5,33 @@
 Open Source Contributions
 </title>
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 .container{
 display:flex;
 justify-content:center;
 align-items:center;
-
+flex-wrap: wrap;
 }
 
 .card{
 display:flex;
 justify-content:center;
 align-items:center;
-background: #333;
-border-radius:5px;
-color: white;
-text-align:center;
-width: 10rem;
-height: 10rem;
-wrap: true;
 flex-direction: column;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 20rem;
+  min-width: max-content;
+  margin: auto;
+  text-align: center;
+  font-family: 'Montserrat';
+  padding: 10px;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
 }
 .card a{
 color: white;
@@ -34,11 +42,17 @@ color: white;
 <body>
 
 <div class="container">
+<!--
 <div class="card">
-<p>
-FirstName LastName<br/><br/>
-3rd SEM CSE<br/></p>
-<a href="https://www.github.com/abcd">GitHub</a><br/>
+  <h1>John Doe</h1>
+  <p class="title">3rd SEM</p>
+  <p>CSE Dept.</p>
+</div>
+-->
+<div class="card">
+  <h1>John Doe</h1>
+  <p class="title">3rd SEM</p>
+  <p>CSE Dept.</p>
 </div>
 </div>
 
