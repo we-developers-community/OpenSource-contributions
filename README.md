@@ -1,4 +1,4 @@
-# OpenSource-contributions
+# How to contribute to open source?
 
 Hey learners !
 
