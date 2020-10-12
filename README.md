@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://pixan198.github.io/images/opensource.svg" alt="Open Source" width="200px" height="200px" />
 </p>
@@ -19,3 +20,15 @@
   </a>
   <img alt="Beginner Friendly" src="https://img.shields.io/badge/Beginner-Friendly-orange?style=for-the-badge" />
 </p>
+
+# How to contribute to open source?
+
+Hey learners !
+
+This repository will demonstrate you how you can contrbute to open source projects using git and github. 
+
+We will learn about:
+- Commits
+- Issues 
+- Pull Requests
+
